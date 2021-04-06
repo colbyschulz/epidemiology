@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 
 const App: FC = () => {
-  return <div>Hello World</div>;
+  return <div>Epidemiology Rules</div>;
 };
 
 export default App;
